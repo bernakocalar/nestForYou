@@ -1,0 +1,6 @@
+@import "tailwindcss";
+body{
+    overflow-x: auto;
+    overflow-y: scroll;
+    background-color: wheat;
+}
